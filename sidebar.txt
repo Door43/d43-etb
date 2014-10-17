@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[etb:home|Door43 (etb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-etb|d43-etb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-etb/archive/master.zip|d43-etb.zip]]
+
+**Recent Changes**
+{{changes>ns = etb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/etb|Ethnologue data]]
+
